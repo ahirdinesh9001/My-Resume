@@ -11,7 +11,7 @@ Lists, tables, and sections
 
 A real-world resume layout
 
-🚀 Features
+Features
 
 Single HTML file
 
